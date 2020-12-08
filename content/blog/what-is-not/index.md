@@ -6,9 +6,9 @@ description: "An approach to problem solving that I use daily."
 
 You’re driving down the road and your car begins making a strange noise. So you pop open the hood and take a look at the hundreds of possibilities it could be. What do you do?
 
-You start by figuring out what the problem is not. The two broadest categories most car problems fit under are gas and electric. Eliminate one and proceed down the other. Say the problem only occurs when you accelerate the throttle, so eliminate electric and start with gas. 
+You start by figuring out what the problem is not. The two broad categories most car problems fit under are gas and electric. Eliminate one and proceed down the other. Say the problem only occurs when you accelerate the throttle, so eliminate electric and start with gas. 
 
-When you go to a doctor because of a pain, the first thing they will ask you is “where does it hurt?” They are trying to pinpoint the pain. You say “right here on my arm” and immediately, you eliminate hundreds of possibilities that it’s not. Now, the doctor can begin brainstorming possibilities within the correct region. Hopefully it’s not gas. (Joke)
+When you go to a doctor because of a pain, the first thing they will ask you is “where does it hurt?” They are trying to pinpoint the pain. You say “right here on my arm” and immediately, you eliminate hundreds of possibilities that it’s not. Now, the doctor can begin brainstorming possibilities within the correct region. Hopefully it’s not gas.
 
 I was once building a website which had two main components: a server and a database. I knew there was a bug in my code, but I didn’t know which component it was in. I tested every piece of the database and everything was working fine. Then, I went to the server and ran all the same tests. The server was fine too. If it wasn’t the database and it wasn’t the server, the ONLY thing it could have been was my own computer. So I restarted my computer, and the bug went away.
 
