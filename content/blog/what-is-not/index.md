@@ -1,7 +1,7 @@
 ---
-title: To figure out what is, first figure out what is not
+title: How engineers solve hard problems
 date: "2020-12-08T22:12:03.284Z"
-description: "Blog introduction, my goals, what to expect, and more."
+description: "An approach to problem solving that I use daily."
 ---
 
 You’re driving down the road and your car begins making a strange noise. So you pop open the hood and take a look at the hundreds of possibilities it could be. What do you do?
