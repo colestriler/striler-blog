@@ -1,5 +1,5 @@
 ---
-title: How engineers solve hard problems
+title: My favorite way to solve hard problems
 date: "2020-12-08T22:12:03.284Z"
 description: "An approach to problem solving that I use daily."
 ---
@@ -26,3 +26,4 @@ Car mechanics are essentially software engineers of the auto world. Once they ch
 
 A good image to think about when problem solving is a funnel. You begin at the widest part of the funnel, and get narrower as you explore, using the tactic of elimination to propel you deeper towards the smaller end. Choosing categories to test and explore will send you narrower into the funnel, and finding sub-categories within other categories will take you even further. 
 
+This method of problem solving helps me a lot when there isn’t a clear solution right away. Whenever you find yourself thinking “I seriously have no idea where to start,” this is usually a good place to start.
