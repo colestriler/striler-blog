@@ -1,5 +1,5 @@
 ---
-title: My approach to solving hard problems
+title: An approach to solving hard problems
 date: "2020-12-08T22:12:03.284Z"
 description: "An approach to problem solving that I use daily."
 ---
