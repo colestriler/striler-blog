@@ -1,7 +1,7 @@
 ---
 title: How to be rich from someone who's not
 date: "2020-12-23T22:12:03.284Z"
-description: "Stop dreaming about being rich one day by learning how to take the first steps."
+description: "Stop dreaming about being rich and learn how to take the first steps."
 ---
 
 I’m no wealthy man, but you don’t have to be to understand logic.
