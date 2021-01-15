@@ -37,7 +37,7 @@ I don't currently have a platform to release these ideas into the world -- until
 
 ## What to expect from me
 Lot's of random ideas, thoughts, or discussions about various topics. One thing I want to emphasize is
-that I will do not stand by what I say in my blog posts for the entirety of my life. What I write is 
+that I do not stand by what I say in my blog posts for the entirety of my life. What I write is 
 merely a reflection of a feeling or a thought in my mind at that given moment in time. 
 
 As time goes on, however, I am highly likely to change my mind on particular topics as I am exposed to 
